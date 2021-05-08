@@ -37,6 +37,9 @@ We develop a debug tool for serial communication protocol (I2C and SPI) tools fo
 * Hardware Component: 
 * * [Maxim Microcontroller MAX32630FTHR ](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html)
 * * [Amazon Jumper Cable](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=asc_df_B01EV70C78/?tag=hyprod-20&linkCode=df0&hvadid=222785939698&hvpos=&hvnetw=g&hvrand=306934414797952629&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032175&hvtargid=pla-362913641420&psc=1)
-* * [Slave Device for Testing: I2C→ Human body temp sensor MAX3020 ](https://laravel.com)
-* [Laravel](https://laravel.com)
-
+* * [Slave Device for Testing: I2C→ Human body temp sensor MAX3020 ](https://www.maximintegrated.com/en/products/sensors/MAX30208EVSYS.html)
+* * [Slave Device for Testing: SPI→ VS1053b (SPI) MIDI Audio Codec ](https://www.adafruit.com/product/1381?gclid=CjwKCAjw7diEBhB-EiwAskVi15HFjzuNsBJIbKIIrAkVQb-nS-RXtfBMl80TvxRCWkYuI-D4Eh5rLhoCEEwQAvD_BwE)
+* Software Component
+* * [Mbed OS + Mbed compiler](https://os.mbed.com/)
+* * [Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/)
+* * [Visual Studio Code Editor](https://code.visualstudio.com/)
