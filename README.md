@@ -8,7 +8,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Technology and Resource Requirements">Built With</a></li>
+        <li><a href="#Technology and Resource Requirements"> Technology and Resource Requirements </a></li>
       </ul>
     </li>
     <li>
