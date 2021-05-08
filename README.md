@@ -57,8 +57,8 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * The MAX32630FTHR board is a rapid development platform designed to help engineers quickly implement battery optimized solutions with the MAX32630 ARM Cortex-M4F microcontroller. The board also includes the MAX14690N Wearable PMIC to provide optimal power conversion and battery management
-*  * You need to sign up for a Mbed account.[Link for Mbed Handbook](https://os.mbed.com/docs/mbed-os/v6.10/introduction/index.html)
-  
+*  * You need to sign up for a Mbed account. [Link for Mbed Handbook](https://os.mbed.com/docs/mbed-os/v6.10/introduction/index.html)
+*  * You need to download and install all packet for Windows Forms App (. NET Framework) in Visual Studio Community 2019. [Visual Studio tutorials | C#](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019)
 
 ### Installation
 
