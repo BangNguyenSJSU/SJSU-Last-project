@@ -68,6 +68,12 @@ This is an example of how to list things you need to prepare and for the project
 1. After signing up for the Mbed account, you can sign in  in the Mbed OS website.
 * Click on this link to access the project repository [Click Here](https://os.mbed.com/users/bangclever/code/SeniorProject_final_ver/) --> Immport it to your workspace account
 * ![tempsnip](https://user-images.githubusercontent.com/38081550/117556166-c115c600-b01a-11eb-9c9d-e890f390c08b.png) 
+* Click in the workspace interface click on "compile". Mbed OS will automatically compile then download a .bin file to your computer. 
+* The MAX32630FTHR board ships with an external DAPLink adapter such as the MAX32625PICO (Programmable Interface Controller). To flash the firmware ( .bin file ) to MAX32630FTHR, you need:
+* * Connect the MAX32630FTHR with MAX32625PICO Programmable Interface Controller.
+* * Connect both of them to the PC. Open File Explorer/ This PC. You will see DAPLINK Disk pop up.
+* * Simply drag and drop the .bin file, which generate from the Mbed Compiler to the DAPLINK Disk. 
+* * ![Capture3](https://user-images.githubusercontent.com/38081550/117556499-7c8c2980-b01e-11eb-894d-b7fe1adcabd3.PNG)
 3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
