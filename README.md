@@ -35,7 +35,7 @@ We develop a debug tool for serial communication protocol (I2C and SPI) tools fo
 
    ![image](https://user-images.githubusercontent.com/38081550/117555671-0b487880-b016-11eb-8311-a51af460b3a4.png)
 
-
+<!-- Technology and Resource Requirements -->
 ## Technology and Resource Requirements 
 * Hardware Component: 
 * * [Maxim Microcontroller MAX32630FTHR ](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html)
