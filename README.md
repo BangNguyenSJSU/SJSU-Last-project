@@ -56,16 +56,18 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to prepare and for the project.
-![Capture](https://user-images.githubusercontent.com/38081550/117555945-9591dc00-b018-11eb-8ff5-6ce1cba58335.PNG)
 
 * The MAX32630FTHR board is a rapid development platform designed to help engineers quickly implement battery optimized solutions with the MAX32630 ARM Cortex-M4F microcontroller. The board also includes the MAX14690N Wearable PMIC to provide optimal power conversion and battery management
+![Capture](https://user-images.githubusercontent.com/38081550/117555945-9591dc00-b018-11eb-8ff5-6ce1cba58335.PNG)
+
 *  * You need to sign up for a Mbed account. [Link for Mbed Handbook](https://os.mbed.com/docs/mbed-os/v6.10/introduction/index.html)
 *  * You need to download and install all packet for Windows Forms App (. NET Framework) in Visual Studio Community 2019. [Visual Studio tutorials | C#](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019)
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. After signing up for the Mbed account, you can sign in  in the Mbed OS website.
+* Click on this Link to access the project Repository [Click Here](https://os.mbed.com/users/bangclever/code/SeniorProject_final_ver/) --> Immport it to your workspace account 
+3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
