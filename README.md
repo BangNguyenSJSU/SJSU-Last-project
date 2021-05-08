@@ -66,7 +66,8 @@ This is an example of how to list things you need to prepare and for the project
 ### Installation
 
 1. After signing up for the Mbed account, you can sign in  in the Mbed OS website.
-* Click on this Link to access the project Repository [Click Here](https://os.mbed.com/users/bangclever/code/SeniorProject_final_ver/) --> Immport it to your workspace account 
+* Click on this link to access the project repository [Click Here](https://os.mbed.com/users/bangclever/code/SeniorProject_final_ver/) --> Immport it to your workspace account
+* ![tempsnip](https://user-images.githubusercontent.com/38081550/117556166-c115c600-b01a-11eb-9c9d-e890f390c08b.png) 
 3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
