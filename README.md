@@ -33,7 +33,7 @@ Embedded systems have been applied to the sensor, monitor, send, or receive data
 
 We develop a debug tool for serial communication protocol (I2C and SPI) tools for this project. The tool also provides a graphical user interface (GUI). The tool should behave as a Master and read or write on any slave device using I2C or SPI protocol. For example, suppose we have a human body temperature sensor using the I2C protocol. In that case, we can probe the pin from the sensor to our tool and run a quick test on the device based on the slave address and register address provided from the datasheet.
 
-![image](https://user-images.githubusercontent.com/38081550/117555671-0b487880-b016-11eb-8311-a51af460b3a4.png)
+     ![image](https://user-images.githubusercontent.com/38081550/117555671-0b487880-b016-11eb-8311-a51af460b3a4.png)
 
 
 ## Technology and Resource Requirements 
