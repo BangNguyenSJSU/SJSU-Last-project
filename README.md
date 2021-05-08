@@ -35,7 +35,7 @@ We develop a debug tool for serial communication protocol (I2C and SPI) tools fo
 
    ![image](https://user-images.githubusercontent.com/38081550/117555671-0b487880-b016-11eb-8311-a51af460b3a4.png)
 
-<!-- Technology and Resource Requirements -->
+
 ## Technology and Resource Requirements 
 * Hardware Component: 
 * * [Maxim Microcontroller MAX32630FTHR ](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html)
@@ -46,3 +46,31 @@ We develop a debug tool for serial communication protocol (I2C and SPI) tools fo
 * * [Mbed OS + Mbed compiler](https://os.mbed.com/)
 * * [Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/)
 * * [Visual Studio Code Editor](https://code.visualstudio.com/)
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* The MAX32630FTHR board is a rapid development platform designed to help engineers quickly implement battery optimized solutions with the MAX32630 ARM Cortex-M4F microcontroller. The board also includes the MAX14690N Wearable PMIC to provide optimal power conversion and battery management
+*  * You need to sign up for a Mbed account.[Link for Mbed Handbook](https://os.mbed.com/docs/mbed-os/v6.10/introduction/index.html)
+  
+
+### Installation
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```JS
+   const API_KEY = 'ENTER YOUR API';
