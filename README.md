@@ -103,7 +103,7 @@ The microcontroller SPI or I2C peripheral pin will be connected to the slave dev
 * * You can check here for more alternative Terminal Application. [Click here for more detail](https://os.mbed.com/handbook/Terminals)
 * * However, Our GUI also provide a Terminal Emulator for Serial COM Port connection. 
 
-### Running the application with Command Line Interface (CLI):
+### Running the application with Command Line Interface (CLI)
 * READ:​	 
 * * **Input**: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
 * * **Input**: char ‘R’ to perform read
