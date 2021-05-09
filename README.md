@@ -20,10 +20,7 @@
     </li>
     <li><a href="#usage and demo">Usage and demo</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+   
   </ol>
 </details>
 
@@ -143,6 +140,19 @@ Program display Output through PC serial COM PORT
 
 #### Simple user interface for SPI READ/ WRITE  with history table to track record
 ![Capture10](https://user-images.githubusercontent.com/38081550/117557470-012f7580-b028-11eb-9239-cbde2e6eca8e.PNG)
+
+### Video Demo 
+
+
+<!-- ROADMAP -->
+## Roadmap with Advisor Nima
+* I2C firmware on Mbed in  December Fall 2020 
+* * A demo parser for I2C on a terminal emulator for primary function in December Fall 2020 
+* * A demo GUI application for I2C in early January Spring 2021 
+* SPI firmware on Mbed for SPI in late January Spring 2021 
+* * A demo parser for SPI on a terminal emulator for primary function in early February Spring 2021 
+* * A demo GUI application for SPI in early late February  Spring 2021 
+* Integration testing all part together in late March Spring 2021
 
 
 
