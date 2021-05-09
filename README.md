@@ -18,7 +18,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage and demo">Usage and demo</a></li>
+    <li><a href="#Usage Example and Demo">Usage Example and Demo</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
    
   </ol>
