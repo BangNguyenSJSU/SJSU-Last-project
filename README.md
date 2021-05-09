@@ -73,7 +73,8 @@ This is an example of how to list things you need to prepare and for the project
 * * Connect the MAX32630FTHR with MAX32625PICO Programmable Interface Controller.
 * * Connect both of them to the PC. Open File Explorer/ This PC. You will see DAPLINK Disk pop up.
 * * Simply drag and drop the .bin file, which generate from the Mbed Compiler to the DAPLINK Disk. After that, press reset button on MAX32630FTHR --> you will se the blue LED blinking every one second to indicate the board running.
-![Capture3](https://user-images.githubusercontent.com/38081550/117556499-7c8c2980-b01e-11eb-894d-b7fe1adcabd3.PNG)
+![Capture3](https://user-images.githubusercontent.com/38081550/117556590-6337ad00-b01f-11eb-9f1d-568cfa85bc3a.PNG)
+
 3. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
