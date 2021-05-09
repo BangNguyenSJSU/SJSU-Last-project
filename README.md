@@ -78,12 +78,9 @@ This is an example of how to list things you need to prepare and for the project
 
 2. Clone the reposiotry for GUI interface (Required all packets for Windows Forms App (. NET Framework) in Visual Studio Community 2019)
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/BangNguyenSJSU/SJSU-Last-project.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+* Open the Microsoft Studio 2019 Community --> File / Open Folder /..../...Git Folder here
+* This is the GUI interace for the project for succesfully open. Click on "Start" button to run the build and run the solution
+* ![Capture4](https://user-images.githubusercontent.com/38081550/117556849-186b6480-b022-11eb-93e2-1c55cb7c3fb6.PNG)
+
