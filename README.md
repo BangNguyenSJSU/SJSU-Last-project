@@ -18,8 +18,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Usage Example and Demo">Usage Example and Demo</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#Usage-Example-and-Demo">Usage Example and Demo</a></li>
+    <li><a href="#ROADMAP">Roadmap</a></li>
    
   </ol>
 </details>
