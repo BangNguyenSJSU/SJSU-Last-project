@@ -96,6 +96,7 @@ The microcontroller SPI or I2C peripheral pin will be connected to the slave dev
 * You need a Terminal Application.Terminal applications will run on your host PC, and provide a window for your mbed Microcontroller to print to, and a means for you to type characters back to your mbed Microcontroller.
 * * You can check here for more alternative Terminal Application. [Click here for more detail](https://os.mbed.com/handbook/Terminals)
 * * However, Our GUI also provide a Terminal Emulator for Serial COM Port connection. 
+
 ### Running the application with Command Line Interface (CLI):
 * READ:​	 
 * * **Input**: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
@@ -116,6 +117,16 @@ Program display Output through PC serial COM PORT
 
 #### Running CLI on terminal emulator (Tera Term). Perform SPI READ (OP Code:03)  and WRITE (OP Code: 02) transaction on Register Address: 0x0b Written Value: 0x2525.
 ![spi](https://user-images.githubusercontent.com/38081550/117557269-0a1f4780-b026-11eb-9de4-c5edd37b308c.png)
+
+#### Our GUI developed by C# and run on the window.
+* General Interface Outline:
+![Capture6](https://user-images.githubusercontent.com/38081550/117557338-9e89aa00-b026-11eb-8837-c4481859a866.PNG)
+
+* Running CLI on our own terminal emulator. Perform I2C READ and WRITE transaction on Slave Address: 0xA0, Register Address: 0x13 Written Value: 0x05.
+![Capture7](https://user-images.githubusercontent.com/38081550/117557372-07712200-b027-11eb-863e-0f7bd4ca6f8b.PNG)
+
+* Running CLI on our own terminal emulator. Perform SPI READ (OP Code:03)  and WRITE (OP Code: 02) transaction on Register Address: 0x0b Written Value: 0x2525.
+![Capture8](https://user-images.githubusercontent.com/38081550/117557374-1061f380-b027-11eb-8546-4e0aa20711a3.PNG)
 
 
 
