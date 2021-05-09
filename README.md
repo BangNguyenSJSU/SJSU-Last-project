@@ -23,8 +23,8 @@
       <ul>
         <li><a href="#Hardware-Connection">Prerequisites</a></li>
         <li><a href="#Software-Requirement">Installation</a></li>
-        <li><a href="#Running-the-application-with-Command-Line-Interface-(CLI)">Running-the-application-with-Command-Line-Interface-(CLI)</a></li>
-        <li><a href="#Using the GUI button to send the instruction and retrieve the result">Using the GUI button to send the instruction and retrieve the result</a></li>
+        <li><a href="#Running-The-Application-With-Command-Line-Interface-(CLI)">Running-the-application-with-Command-Line-Interface-(CLI)</a></li>
+        <li><a href="#Using-the-GUI-button-To-Send-The-Instruction-And-Retrieve-The-Result">Using-the-GUI-button-To-Send-The-Instruction-And-Retrieve-The-Result</a></li>
         <li><a href="#Video-Demo">Video-Demo</a></li>
       </ul>
     </li>
