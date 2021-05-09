@@ -23,8 +23,9 @@
       <ul>
         <li><a href="#Hardware-Connection">Prerequisites</a></li>
         <li><a href="#Software-Requirement">Installation</a></li>
-        <li><a href="#Running-the-application-with-Command-Line-Interface-(CLI)">Installation</a></li>
-        <li><a href="#Using the GUI application to send the instruction and retrieve the result">Installation</a></li>
+        <li><a href="#Running-the-application-with-Command-Line-Interface-(CLI)">Running-the-application-with-Command-Line-Interface-(CLI)</a></li>
+        <li><a href="#Using the GUI button to send the instruction and retrieve the result">Using the GUI button to send the instruction and retrieve the result</a></li>
+        <li><a href="#Video-Demo">Video-Demo</a></li>
       </ul>
     </li>
     <li><a href="#Roadmap">Roadmap</a></li>
@@ -123,7 +124,7 @@ Program display Output through PC serial COM PORT
 #### Running CLI on terminal emulator (Tera Term). Perform SPI READ (OP Code:03)  and WRITE (OP Code: 02) transaction on Register Address: 0x0b Written Value: 0x2525.
 ![spi](https://user-images.githubusercontent.com/38081550/117557269-0a1f4780-b026-11eb-9de4-c5edd37b308c.png)
 
-#### Our GUI developed by C# and run on the window.
+#### Our GUI button by C# and run on the window.
 * General Interface Outline:
 ![Capture6](https://user-images.githubusercontent.com/38081550/117557338-9e89aa00-b026-11eb-8837-c4481859a866.PNG)
 
