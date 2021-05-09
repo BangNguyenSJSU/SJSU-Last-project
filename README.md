@@ -61,7 +61,7 @@ This is an example of how to list things you need to prepare and for the project
 ![Capture](https://user-images.githubusercontent.com/38081550/117555945-9591dc00-b018-11eb-8ff5-6ce1cba58335.PNG)
 
 *  * You need to sign up for a Mbed account. [Link for Mbed Handbook](https://os.mbed.com/docs/mbed-os/v6.10/introduction/index.html)
-*  * You need to download and install all packet for Windows Forms App (. NET Framework) in Visual Studio Community 2019. [Visual Studio tutorials | C#](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019)
+*  * You need to download and install all packets for Windows Forms App (. NET Framework) in Visual Studio Community 2019. [Visual Studio tutorials | C#](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019)
 
 ### Installation
 
@@ -76,7 +76,7 @@ This is an example of how to list things you need to prepare and for the project
 ![Capture3](https://user-images.githubusercontent.com/38081550/117556590-6337ad00-b01f-11eb-9f1d-568cfa85bc3a.PNG)
 
 
-3. Clone the repo
+2. Clone the reposiotry for GUI interface (Required all packets for Windows Forms App (. NET Framework) in Visual Studio Community 2019)
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
