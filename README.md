@@ -103,7 +103,7 @@ The microcontroller SPI or I2C peripheral pin will be connected to the slave dev
 * * You can check here for more alternative Terminal Application. [Click here for more detail](https://os.mbed.com/handbook/Terminals)
 * * However, Our GUI also provide a Terminal Emulator for Serial COM Port connection. 
 
-### Running the application with Command Line Interface (CLI)
+### Running The Application With Command Line Interface (CLI)
 * READ:​	 
 * * **Input**: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
 * * **Input**: char ‘R’ to perform read
@@ -134,7 +134,7 @@ Program display Output through PC serial COM PORT
 * Running CLI on our own terminal emulator. Perform SPI READ (OP Code:03)  and WRITE (OP Code: 02) transaction on Register Address: 0x0b Written Value: 0x2525.
 ![Capture8](https://user-images.githubusercontent.com/38081550/117557374-1061f380-b027-11eb-8546-4e0aa20711a3.PNG)
 
-### Using the GUI application to send the instruction and retrieve the result  
+### Using the GUI button To Send The Instruction And Retrieve The Result 
 * I2C mode:
 * * Check-in: DTR enable box, Always Update
 * * Input the:  Slave address, ​Registered Address​, Num of Byte (READ mode), Byte Value (WRITE mode)
