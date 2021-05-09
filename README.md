@@ -1,4 +1,4 @@
-# SJSU-Senior-project
+# SJSU-Senior Project
 
 
 <!-- TABLE OF CONTENTS -->
