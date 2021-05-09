@@ -14,7 +14,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-         <li><a href="Things about I2C protocol and SPI protocol">Things about I2C protocol and SPI protocol</a></li>
+         <li><a href="#Things about I2C protocol and SPI protocol">Things about I2C protocol and SPI protocol</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
