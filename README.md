@@ -23,7 +23,7 @@
       <a href="#Usage-Example-and-Demo">Usage Example and Demo</a>
       <ul>
         <li><a href="#Hardware-Connection">Prerequisites</a></li>
-        <li><a href="#Software-Requirement">Installation</a></li>
+        <li><a href="#Software-Requirement">Software-Requirement</a></li>
         <li><a href="#Running-The-Application-With-Command-Line-Interface-(CLI)">Running-The-Application-With-Command-Line-Interface-(CLI)</a></li>
         <li><a href="#Using-the-GUI-button-To-Send-The-Instruction-And-Retrieve-The-Result">Using-the-GUI-button-To-Send-The-Instruction-And-Retrieve-The-Result</a></li>
         <li><a href="#Video-Demo">Video-Demo</a></li>
