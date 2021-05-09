@@ -92,6 +92,23 @@ The microcontroller SPI or I2C peripheral pin will be connected to the slave dev
 ### Hardwre Connection: 
 * CS pin for SPI is GPIO P3_2
 ![Capture5](https://user-images.githubusercontent.com/38081550/117556982-6df44100-b023-11eb-97f0-86fe46315004.PNG)
-
+### Software requirement:
+* You need a Terminal Application.Terminal applications will run on your host PC, and provide a window for your mbed Microcontroller to print to, and a means for you to type characters back to your mbed Microcontroller.
+* * You can check here for more alternative Terminal Application. [Click here for more detail](https://os.mbed.com/handbook/Terminals)
+* * However, Our GUI also provide a Terminal Emulator for Serial COM Port connection. 
+### Running the application with Command Line Interface (CLI):
+* READ:​	 
+* * Input: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
+* * Input: char ‘R’ to perform read
+* * Input: Slave Address
+* * Input: RegisterAddress.
+* * Input: Number of Byte (Default value = 1).
+* WRITE:​	 
+* * Input: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
+* * Input: char ‘W’ to perform write
+* * Input: SlaveAddress.
+* * Input: RegisterAddress.
+* * Input: Value of Byte.
+Program display Output through PC serial COM PORT 
 
 
