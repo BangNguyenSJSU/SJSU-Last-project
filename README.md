@@ -111,4 +111,11 @@ The microcontroller SPI or I2C peripheral pin will be connected to the slave dev
 * * **Input**: Value of Byte.
 Program display Output through PC serial COM PORT 
 
+#### Running CLI on terminal emulator (Tera Term). Perform I2C READ and WRITE transaction on Slave Address: 0xA0, Register Address: 0x13 Written Value: 0x05.
+![i2c](https://user-images.githubusercontent.com/38081550/117557261-f673e100-b025-11eb-94ec-2ef8cbd621e2.png)
+
+#### Running CLI on terminal emulator (Tera Term). Perform SPI READ (OP Code:03)  and WRITE (OP Code: 02) transaction on Register Address: 0x0b Written Value: 0x2525.
+![spi](https://user-images.githubusercontent.com/38081550/117557269-0a1f4780-b026-11eb-9de4-c5edd37b308c.png)
+
+
 
