@@ -14,6 +14,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+         <li><a href="Things about I2C protocol and SPI protocol">Things about I2C protocol and SPI protocol</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -59,7 +60,14 @@ We develop a debug tool for serial communication protocol (I2C and SPI) tools fo
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Things about I2C protocol and SPI protocol
+When it comes to communicating between chips on a printed circuit board, two protocols are extremely popular: Serial Peripheral Interface (SPI) and Inter-Integrated Circuit (IIC or I2C). These wired protocols are considered "little" or "low-end,". Many microcontrollers, sensors, and peripherals (such as LCDs) rely on SPI and I2C to talk to each other. If you have to choose between the two, SPI is generally the better tool if you need faster transfer speeds. I2C, on the other hand, is best if you have limited pins available on your microcontroller or microprocessor.
+* **SPI Connection (half-duplex)** 
+![Capture11](https://user-images.githubusercontent.com/38081550/117569785-3f568480-b07c-11eb-8432-a0cdb4ee7cf8.PNG)
+* **I2C Connection (full-duplex)** 
+![Capture12](https://user-images.githubusercontent.com/38081550/117569779-349bef80-b07c-11eb-8f6b-e8c0a761f6cc.PNG)
+
+### Prerequisites 
 
 This is an example of how to list things you need to prepare and for the project.
 
