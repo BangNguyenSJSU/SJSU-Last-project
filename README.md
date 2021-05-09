@@ -128,5 +128,21 @@ Program display Output through PC serial COM PORT
 * Running CLI on our own terminal emulator. Perform SPI READ (OP Code:03)  and WRITE (OP Code: 02) transaction on Register Address: 0x0b Written Value: 0x2525.
 ![Capture8](https://user-images.githubusercontent.com/38081550/117557374-1061f380-b027-11eb-8546-4e0aa20711a3.PNG)
 
+### Using the GUI application to send the instruction and retrieve the result  
+* I2C mode:
+* * Check-in: DTR enable box, Always Update
+* * Input the:  Slave address, ​Registered Address​, Num of Byte (READ mode), Byte Value (WRITE mode)
+* * Click on: the ​READ button​ to to perform read, or the  the ​WRITE button​ to to perform write
+* * Click on: The Clear Input button will clear the Input screen
+* * Click on: The Clear Output button will clear the Output screen  
+* * Click on: The Add Read Value button will add the record of your last transaction.
+* * Click on: The Clear Grid button will empty the table. 
+
+#### Simple user interface for I2C READ/ WRITE  with history table to track record
+![Capture9](https://user-images.githubusercontent.com/38081550/117557466-faa0fe00-b027-11eb-841b-f9e39d3005ce.PNG)
+
+#### Simple user interface for SPI READ/ WRITE  with history table to track record
+![Capture10](https://user-images.githubusercontent.com/38081550/117557470-012f7580-b028-11eb-9239-cbde2e6eca8e.PNG)
+
 
 
