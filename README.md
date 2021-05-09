@@ -18,7 +18,15 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Usage-Example-and-Demo">Usage Example and Demo</a></li>
+    <li>
+      <a href="#Usage-Example-and-Demo">Usage Example and Demo</a>
+      <ul>
+        <li><a href="#Hardware-Connection">Prerequisites</a></li>
+        <li><a href="#Software-Requirement">Installation</a></li>
+        <li><a href="#Running-the-application-with-Command-Line-Interface-(CLI)">Installation</a></li>
+        <li><a href="#Using the GUI application to send the instruction and retrieve the result">Installation</a></li>
+      </ul>
+    </li>
     <li><a href="#Roadmap">Roadmap</a></li>
    
   </ol>
@@ -145,7 +153,7 @@ Program display Output through PC serial COM PORT
 
 
 <!-- Roadmap -->
-## Roadmap with Advisor Nima
+## Roadmap 
 * I2C firmware on Mbed in  December Fall 2020 
 * * A demo parser for I2C on a terminal emulator for primary function in December Fall 2020 
 * * A demo GUI application for I2C in early January Spring 2021 
