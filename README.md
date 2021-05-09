@@ -18,7 +18,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage and demo">Usage and demo</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -83,4 +83,15 @@ This is an example of how to list things you need to prepare and for the project
 * Open the Microsoft Studio 2019 Community --> File / Open Folder /..../...Git Folder here
 * This is the GUI interace for the project for succesfully open. Click on "Start" button to run the build and run the solution
 * ![Capture4](https://user-images.githubusercontent.com/38081550/117556849-186b6480-b022-11eb-93e2-1c55cb7c3fb6.PNG)
+
+<!-- Usage Example and Demo -->
+## Usage Example and Demo
+
+The microcontroller SPI or I2C peripheral pin will be connected to the slave device. The READ and WRITE register commands are sent by micro USB connection, which is instructed by the user through PC. The PC will use a serial COM port to communicate with Microcontroller through the UART port. There are two methods that we can use to send the instruction to the microcontroller.	
+
+### Hardwre Connection: 
+* CS pin for SPI is GPIO P3_2
+![Capture5](https://user-images.githubusercontent.com/38081550/117556982-6df44100-b023-11eb-97f0-86fe46315004.PNG)
+
+
 
