@@ -98,17 +98,17 @@ The microcontroller SPI or I2C peripheral pin will be connected to the slave dev
 * * However, Our GUI also provide a Terminal Emulator for Serial COM Port connection. 
 ### Running the application with Command Line Interface (CLI):
 * READ:​	 
-* * Input: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
-* * Input: char ‘R’ to perform read
-* * Input: Slave Address
-* * Input: RegisterAddress.
-* * Input: Number of Byte (Default value = 1).
+* * **Input**: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
+* * **Input**: char ‘R’ to perform read
+* * **Input**: Slave Address
+* * **Input**: RegisterAddress.
+* * **Input**: Number of Byte (Default value = 1).
 * WRITE:​	 
-* * Input: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
-* * Input: char ‘W’ to perform write
-* * Input: SlaveAddress.
-* * Input: RegisterAddress.
-* * Input: Value of Byte.
+* * **Input**: char ‘I’ to identify I2C protocol or char ‘S’ to identify SPI protocol
+* * **Input**: char ‘W’ to perform write
+* * **Input**: SlaveAddress.
+* * **Input**: RegisterAddress.
+* * **Input**: Value of Byte.
 Program display Output through PC serial COM PORT 
 
 
