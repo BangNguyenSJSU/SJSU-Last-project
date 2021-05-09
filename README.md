@@ -50,8 +50,8 @@ We develop a debug tool for serial communication protocol (I2C and SPI) tools fo
 * * [Slave Device for Testing: I2C→ Human Body Temp Sensor MAX30208](https://www.maximintegrated.com/en/products/sensors/MAX30208EVSYS.html)
 * * [Slave Device for Testing: SPI→ VS1053b (SPI) MIDI Audio Codec](https://www.adafruit.com/product/1381?gclid=CjwKCAjw7diEBhB-EiwAskVi15HFjzuNsBJIbKIIrAkVQb-nS-RXtfBMl80TvxRCWkYuI-D4Eh5rLhoCEEwQAvD_BwE)
 * Software Component
-* * [Mbed OS + Mbed compiler](https://os.mbed.com/)
-* * [Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/)
+* * [Mbed OS + Mbed compiler (Firmware Development)](https://os.mbed.com/)
+* * [Visual Studio Community 2019 (GUI Development)](https://visualstudio.microsoft.com/vs/community/)
 * * [Visual Studio Code Editor](https://code.visualstudio.com/)
 
 <!-- GETTING STARTED -->
@@ -144,13 +144,13 @@ Program display Output through PC serial COM PORT
 
 ### Using the GUI button To Send The Instruction And Retrieve The Result 
 * I2C mode:
-* * Check-in: DTR enable box, Always Update
-* * Input the:  Slave address, ​Registered Address​, Num of Byte (READ mode), Byte Value (WRITE mode)
-* * Click on: the ​READ button​ to to perform read, or the  the ​WRITE button​ to to perform write
-* * Click on: The Clear Input button will clear the Input screen
-* * Click on: The Clear Output button will clear the Output screen  
-* * Click on: The Add Read Value button will add the record of your last transaction.
-* * Click on: The Clear Grid button will empty the table. 
+* * **Check-in**: DTR enable box, Always Update
+* * **Input the**:  Slave address, ​Registered Address​, Num of Byte (READ mode), Byte Value (WRITE mode)
+* * **Click on**: the ​READ button​ to to perform read, or the  the ​WRITE button​ to to perform write
+* * **Click on**: The Clear Input button will clear the Input screen
+* * **Click on**: The Clear Output button will clear the Output screen  
+* * **Click on**: The Add Read Value button will add the record of your last transaction.
+* * **Click on**: The Clear Grid button will empty the table. 
 
 #### Simple user interface for I2C READ/ WRITE  with history table to track record
 ![Capture9](https://user-images.githubusercontent.com/38081550/117557466-faa0fe00-b027-11eb-841b-f9e39d3005ce.PNG)
