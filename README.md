@@ -19,7 +19,7 @@
       </ul>
     </li>
     <li><a href="#Usage-Example-and-Demo">Usage Example and Demo</a></li>
-    <li><a href="#ROADMAP">ROADMAP</a></li>
+    <li><a href="#Roadmap">Roadmap</a></li>
    
   </ol>
 </details>
@@ -144,7 +144,7 @@ Program display Output through PC serial COM PORT
 ### Video Demo 
 
 
-<!-- ROADMAP -->
+<!-- Roadmap -->
 ## Roadmap with Advisor Nima
 * I2C firmware on Mbed in  December Fall 2020 
 * * A demo parser for I2C on a terminal emulator for primary function in December Fall 2020 
